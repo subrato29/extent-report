@@ -1,3 +1,2 @@
-### boilerplate-api-automation
-##### built on Rest-Assured
-##### AUT: Best Buy API Playground
+### extent-report
+##### Author: Subrato Sarkar
