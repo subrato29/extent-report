@@ -12,11 +12,11 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.asserts.SoftAssert;
 
-import com.api.reports.ReportUtil;
-import com.api.support.Xls_Reader;
 import com.api.utilities.Constants;
 import com.api.utilities.Util;
 import com.api.utilities.Zip;
+import com.app.reports.ReportUtil;
+import com.app.support.Xls_Reader;
 import com.relevantcodes.extentreports.ExtentTest;
 
 public class DriverScript{

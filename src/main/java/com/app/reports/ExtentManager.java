@@ -1,12 +1,10 @@
-package com.api.reports;
+package com.app.reports;
 import java.io.File;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
 import com.api.utilities.Util;
-import com.app.base.DriverScript;
 import com.relevantcodes.extentreports.ExtentReports;
 
 public class ExtentManager{

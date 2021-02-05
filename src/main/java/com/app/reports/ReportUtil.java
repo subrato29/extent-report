@@ -1,5 +1,4 @@
-package com.api.reports;
-import com.api.reports.ExtentManager;
+package com.app.reports;
 import com.app.base.DriverScript;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;

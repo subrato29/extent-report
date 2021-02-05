@@ -21,15 +21,7 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.awt.Desktop;
-import java.awt.image.RenderedImage;
-
-import javax.crypto.Cipher;
-import javax.crypto.spec.IvParameterSpec;
-import javax.crypto.spec.SecretKeySpec;
-import javax.imageio.ImageIO;
-
-import com.api.reports.ExtentManager;
-import com.app.base.DriverScript;
+import com.app.reports.ExtentManager;
 
 import freemarker.log.Logger;
 
